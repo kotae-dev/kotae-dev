@@ -26,9 +26,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/kotae-dev/kotae-dev/output/snake.svg" alt="Snake animation" />
-
-###
