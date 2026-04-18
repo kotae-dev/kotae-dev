@@ -1,4 +1,6 @@
-<h2 align="left">Hi! My name is Tae Hyeon Ko and I'm a dev from South Korea.</h2>
+<div align="left" style="font-size: 1.5em; font-weight: bold; margin-bottom: 10px;">
+  Hi! My name is Tae Hyeon Ko and I'm a dev from South Korea.
+</div>
 
 <h2 align="left">I am currently working on Roblox Bytecode Injector and RIVALS script Project.</h2>
 
