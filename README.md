@@ -1,7 +1,10 @@
-<h2 align="left">Hi! My name is Tae Hyeon Ko and I'm a dev from South Korea.</h2>
+<div align="left" style="font-size: 1.5em; font-weight: bold; margin-bottom: 10px;">
+  Hi! My name is Tae Hyeon Ko and I'm a dev from South Korea.
+</div>
+
 <h2 align="left">I am currently working on Roblox Bytecode Injector and RIVALS script Project.</h2>
 
-###
+<br />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -19,15 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
 </div>
 
-###
-
-<div align="left">
-</div>
-
-###
-
-<br clear="both">
+<br />
 
 <img src="https://raw.githubusercontent.com/kotae-dev/kotae-dev/output/snake.svg" alt="Snake animation" />
-
-###
